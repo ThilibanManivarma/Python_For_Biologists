@@ -1,2 +1,2 @@
-# Python_Basics
-Its all about python to make our life easier!
+#Python_Basics #Biological_problems 
+Its all about python and it makes life easier !! 
