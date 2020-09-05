@@ -1,0 +1,9 @@
+def dipeptide(a,b):
+    
+    for i in a:
+        for j in b:
+            print(i+j, end = " ")
+            
+if __name__ == "__main__":
+    
+    dipeptide(a = ['a','b'], b = ['a','b'])
